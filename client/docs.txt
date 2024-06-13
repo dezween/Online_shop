@@ -1,0 +1,4 @@
+Страница регистрации
+http://localhost:8000/client/
+
+python -m http.server 8000

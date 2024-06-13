@@ -1,0 +1,10 @@
+Обращение по ID 
+GET http://localhost:8080/users/14
+
+Получить всех пользователей
+GET http://localhost:8080/users
+
+Зарегистрировать пользователя
+POST http://localhost:8080/users
+
+go run main.go
